@@ -1,0 +1,23 @@
+[
+    {
+        "key": "unsplash.search",
+        "path": "/cms/unsplash/search/{BLOG_ID}",
+        "permissions": [],
+        "controller": "\\HamletCMS\\Unsplash\\controller\\Unsplash",
+        "action": "showSearch"
+    },
+    {
+        "key": "unsplash.runsearch",
+        "path": "/cms/unsplash/runsearch/{BLOG_ID}",
+        "permissions": [],
+        "controller": "\\HamletCMS\\Unsplash\\controller\\Unsplash",
+        "action": "runSearch"
+    },
+    {
+        "key": "unsplash.upload",
+        "path": "/cms/unsplash/upload/{BLOG_ID}",
+        "permissions": [],
+        "controller": "\\HamletCMS\\Unsplash\\controller\\Unsplash",
+        "action": "uploadFile"
+    }
+]
