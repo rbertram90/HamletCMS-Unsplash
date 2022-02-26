@@ -1,0 +1,14 @@
+{
+    "name": "rbwebdesigns/hamlet-cms-unsplash",
+    "description": "Search files from the Unsplash API to use in blog posts ",
+    "type": "hamlet-cms-module",
+    "extra": {
+        "installer-name": "Unsplash"
+    },
+    "authors": [
+        {
+            "name": "Ricky Bertram",
+            "email": "ricky@rbwebdesigns.co.uk"
+        }
+    ]
+}
